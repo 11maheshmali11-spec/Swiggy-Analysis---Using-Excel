@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project is an **Excel-based Swiggy Sales Analysis Dashboard** created by following a YouTube tutorial.  
-The main goal of this project is to understand **business problems**, **key KPIs**, and the **basics of data analysis and dashboard design**.
+The main goal of this project is to understand **business problems**, **key KPIs**, and the **basics of data analysis and dashboard designing**.
 
 ## 🎯 Objectives
 - Analyze sales data to identify key business insights  
@@ -18,19 +18,15 @@ The main goal of this project is to understand **business problems**, **key KPIs
 - Average Rating
    
 
-## 🛠 Tools & Skills Used
+## 🛠 Tools & Skills Gained Or Key Learnings
+in this project, I gained knowledge and practical experience in:
 - Microsoft Excel  
-- Advanced Excel Formulas  
-- Pivot Tables & Pivot Charts  
-- Slicers and Slicer Formatting  
+- Advanced Excel formulas  
+- Pivot Tables and Pivot Charts  
+- Slicers and slicer formatting  
 - Excel UI tools and dashboard design techniques  
 
-## 🚀 Key Learnings
-Through this project, I gained practical knowledge of:
-- Advanced Excel formulas  
-- Pivot Tables and data summarization  
-- Using slicers for interactivity  
-- Formatting dashboards to make them attractive and user-friendly  
+
 
 ## 📚 Learning Source
 - YouTube tutorial (used for learning and practice purposes)
