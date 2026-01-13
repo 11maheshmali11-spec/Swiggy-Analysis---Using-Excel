@@ -31,8 +31,21 @@ in this project, I gained knowledge and practical experience in:
 ## 📚 Learning Source
 - YouTube tutorial (used for learning and practice purposes)
 
+- 
+
 ## 📌 Conclusion
 This project helped me improve my **Excel skills**, **analytical thinking**, and **understanding of data visualization** using real-world data.
 
 ---
+ ##   Dashboard image & Video
+
+
+<img width="928" height="639" alt="Screenshot 2026-01-13 123422" src="https://github.com/user-attachments/assets/86de3b0b-cd12-4c7d-9636-ddeb7c51acce" />
+
+
+
+https://github.com/user-attachments/assets/4ba50f29-ed1b-47fd-b6a8-9344add4fa7d
+
+
+ 
 
